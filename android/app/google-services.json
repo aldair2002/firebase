@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "365349821682",
+    "firebase_url": "https://applist-ffc66-default-rtdb.firebaseio.com",
+    "project_id": "applist-ffc66",
+    "storage_bucket": "applist-ffc66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365349821682:android:6dd24b26992d8941fd846b",
+        "android_client_info": {
+          "package_name": "com.example.simpletodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP5S82cYxNywpDU8pox6DtYCLthzYcpkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365349821682:android:b97757e84bb3837efd846b",
+        "android_client_info": {
+          "package_name": "com.firebase.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP5S82cYxNywpDU8pox6DtYCLthzYcpkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
